@@ -25,5 +25,5 @@ Highlights: placeholder, placeholder, placeholder
 ---
 
 ## Experiments & Learning
-**[Frontend Mentor - Challenges](https://github.com/shrey-projects/projects)** - A collection of Frontend Mentor projects </br>
+**[Frontend Mentor - Challenges](https://github.com/shrey-projects/frontend-mentor-challenges/)** - A collection of Frontend Mentor projects </br>
 Tech: HTML · CSS · JS · React </br>
